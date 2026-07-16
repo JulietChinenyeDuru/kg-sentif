@@ -17,20 +17,20 @@ sentiment intelligence for mobile social media and product review analysis.
 
 Given raw review or social media text, KG-SentIF:
 
-1. **Extracts aspects** — identifies the specific entities/features being
+1. **Extracts aspects** identifies the specific entities/features being
    discussed (e.g. "battery life", "camera quality", "customer service").
-2. **Builds a knowledge graph** — links extracted aspects to a structured
+2. **Builds a knowledge graph** links extracted aspects to a structured
    graph, capturing relationships between aspects, products, and categories.
-3. **Classifies sentiment per aspect** — assigns polarity (positive / negative
+3. **Classifies sentiment per aspect** assigns polarity (positive / negative
    / neutral) to each aspect individually, rather than one score for the
    whole text.
-4. **Produces an aspect-sentiment intelligence report** — a structured,
+4. **Produces an aspect-sentiment intelligence report** a structured,
    queryable output combining (1)-(3), suitable for downstream analytics.
 
 ### Why knowledge graphs?
 
 Flat sentiment analysis treats a review as one blob of text with one sentiment
-score. This loses critical nuance — a review can praise the camera and
+score. This loses critical nuance a review can praise the camera and
 criticize the battery in the same sentence. By representing aspects and their
 relationships as a graph, KG-SentIF:
 
@@ -168,19 +168,15 @@ If you use this framework in your research, please cite:
   title        = {KG-SentIF: Knowledge Graph-Enhanced Sentiment Intelligence Framework},
   year         = {2026},
   howpublished = {\url{https://github.com/JulietChinenyeDuru/kg-sentif}},
-  note         = {ORCID: 0009-0002-0530-8082}
 }
 ```
 
-Author's ORCID: [0009-0002-0530-8082](https://orcid.org/0009-0002-0530-8082)
-
 ## License
 
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License see [LICENSE](LICENSE) for details.
 
 ## Author
 
 **Juliet Chinenye Duru**
-ICT Lecturer, Abia State University · Cloud & AI DevOps Engineer, Cloud Crew
-Founder, Mutual Tech Global
+ICT Lecturer, Abia State University · Cloud & AI DevOps Engineer
 [ORCID: 0009-0002-0530-8082](https://orcid.org/0009-0002-0530-8082)

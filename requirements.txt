@@ -1,0 +1,4 @@
+spacy>=3.7.0
+networkx>=3.2
+nltk>=3.8.1
+pytest>=7.4.0

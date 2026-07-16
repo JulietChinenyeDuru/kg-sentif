@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "KG-SentIF: Knowledge Graph-Enhanced Sentiment Intelligence Framework"
+authors:
+  - family-names: "Duru"
+    given-names: "Juliet Chinenye"
+    orcid: "https://orcid.org/0009-0002-0530-8082"
+version: 0.1.0
+date-released: 2026-07-16
+url: "https://github.com/JulietChinenyeDuru/kg-sentif"
+license: MIT
